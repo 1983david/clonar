@@ -12,6 +12,11 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        DGH <br>
+        Bienvenido a ventas <br>
+        1. fac <br>
+        2. com <br>
+        3. datos pro <br>
+        4. salir
     </body>
 </html>
